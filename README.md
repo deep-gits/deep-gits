@@ -21,9 +21,13 @@
 - 📁 Tools: Git | GitHub | Postman | VS Code | IntelliJ
 
 ---
+
+
 ## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/deep-gits/deep-gits/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/deep-gits/deep-gits/main/output/github-contribution-grid-snake.svg)
+
+
 
 ---
 
