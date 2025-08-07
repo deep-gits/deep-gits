@@ -2,11 +2,11 @@
 <h3 align="center">🚀 Final-year B.Tech CSE Student | Full Stack Developer | Java with DSA | ML & AI Enthusiast</h3>
 
 ---
+<h3 align="left">💼 Currently Working On</h3>
 
-🌱 I’m currently working on:
-- Full Stack Projects using **MERN Stack**
-- Improving problem-solving skills with **Java & DSA**
-- Learning and building projects in **Machine Learning & AI**
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&vCenter=true&multiline=true&width=600&height=100&lines=🔧+Full+Stack+Projects+with+MERN;💻+Java+%26+DSA+Problem+Solving;🤖+Machine+Learning+%26+AI+Projects" alt="Typing SVG" />
+</p>
 
 💡 I’m interested in:
 - Building scalable web apps
