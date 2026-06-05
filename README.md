@@ -43,7 +43,7 @@
 📫 How to reach me:
 - Email: deepaksaraswat8913@gmail.com
 - LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/deepak-saraswat-909a9a254)
-- Portfolio: [your-portfolio-link](https://your-portfolio.com)
+- Portfolio: [portfolio-link](https://deep-gits.github.io/Portfolio/)
 
 ---
 
