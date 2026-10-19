@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak saraswat</h1>
-<h3 align="center">🚀 Final-year B.Tech CSE Student | Full Stack Developer | Java with DSA | ML & AI Enthusiast</h3>
+<h3 align="center">🚀  B.Tech Graduate CSE  | Java with DSA  | Full stack development| ML & AI Enthusiast</h3>
 
 ---
 <h3 align="left">💼 Currently Working On</h3>
@@ -43,7 +43,7 @@
 📫 How to reach me:
 - Email: deepaksaraswat8913@gmail.com
 - LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/deepak-saraswat-909a9a254)
-- Portfolio: [portfolio-link](https://deep-gits.github.io/Portfolio/)
+- Portfolio: [portfolio-link]
 
 ---
 
