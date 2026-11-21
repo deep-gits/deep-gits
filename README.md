@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak saraswat</h1>
-<h3 align="center">🚀  B.Tech Graduate CSE  | Java with DSA  | Full stack development| ML & AI Enthusiast</h3>
+<h3 align="center">🚀  B.Tech Graduate CSE  | DSA  | Full stack development| ML & AI Enthusiast</h3>
 
 ---
 <h3 align="left">💼 Currently Working On</h3>
